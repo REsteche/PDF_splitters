@@ -34,7 +34,7 @@ This script is the most manual of all, at the same time it is the most customiza
 
 `script: custom-pdf-div.py`
 
-This script splits the pdf into a sub pdf. When activated by command line it receives 3 arguments: the original pdf directory and the initial and final pages, which will correspond to the first and last pages of the pdf that will be created from it.
+This script creates a new smaller pdf from the old larger one. When activated by command line it receives 3 arguments: the original pdf directory and the initial and final pages, which will correspond to the first and last pages of the pdf that will be created from it.
 
 ### Lybraries ###
 
