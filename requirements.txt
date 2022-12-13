@@ -1,0 +1,7 @@
+deprecation==2.1.0
+lxml==4.9.1
+packaging==22.0
+pikepdf==6.2.5
+Pillow==9.3.0
+PyPDF2==2.12.1
+typing_extensions==4.4.0
