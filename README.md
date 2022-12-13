@@ -1,4 +1,5 @@
-# pythonic methods to split your PDF's
+# Pythonic methods to split your PDF's 📓📄💡🔎
+
 
 The repository features the following:
 > - This repository contains a compilation of different scripts to subdivide a pdf into smaller ones
