@@ -17,7 +17,7 @@ To execute any of the scripts here, you should
 
 > - First download [python 3](https://www.python.org/). After, install the dependencies by typing `pip install -r requirements.txt` and then cd into the directory that most fits yout task. Run `python {script_of_your_directory}.py` on your terminal and then proceed with the use instructions;
 
-### Use instructuions ###
+### Use instructions ###
 > automatic-page-splitter
 
 `script: singlepage-pdf-splitter.py`
